@@ -246,7 +246,6 @@ Validation is performed throughout the transformation and modeling process to im
 | **BULK INSERT** | CSV data ingestion |
 | **Stored Procedures** | Reusable ETL operations |
 | **SQL Tables & Views** | Bronze, Silver, and Gold data storage |
-| **Git** | Version control |
 | **GitHub** | Source code and project documentation |
 
 ---
